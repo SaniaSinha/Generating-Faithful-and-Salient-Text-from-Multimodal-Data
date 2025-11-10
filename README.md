@@ -1,3 +1,6 @@
+Link to dataset- https://drive.google.com/file/d/16h4EQlgs-x4hypu4vAq2tuL0EzvrCecO/view
+
+
 This project investigates the challenge of generating faithful, accurate, and salient natural language descriptions from multimodal data sources, specifically structured data and images. 
 Multimodal data-to-text generation combines information from multiple input sources such as images, structured data graphs, or tables to produce meaningful textual descriptions. 
 Recent advancements in LMMs (Large Multimodal Models) have enabled more fluent generation but still struggle with two main issues:
